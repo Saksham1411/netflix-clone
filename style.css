@@ -22,7 +22,7 @@ h1,h2,h3,h4{
     line-height: 2rem;
 }
 .showcase{
-    background: url(IN-en-20230703-popsignuptwoweeks-perspective_alpha_website_medium.jpg)
+    background: url(./assests/IN-en-20230703-popsignuptwoweeks-perspective_alpha_website_medium.jpg)
     no-repeat center center/cover;
     box-sizing: border-box;
     height: 100vh;
